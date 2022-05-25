@@ -1,7 +1,6 @@
 import React from "react";
 import Editor from "./Editor";
 
-
 export default () => {
 
 
@@ -9,6 +8,8 @@ export default () => {
     <div>
       Quill Editor
       <Editor />
+      Quill Component
+      
 
     </div>
   );

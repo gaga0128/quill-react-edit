@@ -45,10 +45,9 @@ npm install
 
 ### 🍠 Test the application
 
- ```
+``` bash
 npm run start
 ```
-
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
 - [React](https://www.recajs.org/) - React

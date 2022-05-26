@@ -8,6 +8,7 @@ export default function Editor() {
   return (
     <div style={{ width: 1000, height: 300 }}>
       <div ref={quillRef} />
+     
     </div>
   )
 }
